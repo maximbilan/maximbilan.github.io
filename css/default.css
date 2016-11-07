@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Monaco;
-    src: url(fonts/Monaco.dfont);
+    font-family: monaco;
+    src: url(fonts/monaco.ttf);
   }
 html {
     background: black url(img/header.jpg) no-repeat center fixed; 
@@ -8,7 +8,7 @@ html {
 }
 .main {
   width: 100%;
-  font-family: Monaco;
+  font-family: monaco;
 }
 .text {
   color: white;
