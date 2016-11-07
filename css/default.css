@@ -3,7 +3,7 @@ html {
     background-size: cover;
 }
 .main {
-  width: 500px;
+  width: 100%;
   font-family: Monaco;
 }
 .text {
