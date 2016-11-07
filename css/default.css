@@ -13,7 +13,8 @@ html {
 }
 .text {
   background: #6EBBFF;
-  text-align: justify;
+  color: white;
+  text-align: left;
   padding: 15px;
 }
 .icons {
