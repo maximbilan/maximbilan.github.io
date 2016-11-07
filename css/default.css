@@ -12,16 +12,14 @@ html {
   padding: 15px;
 }
 .icons {
-  background: #ffd000;
   padding: 15px;
 }
 .icon {
   display: inline-block;
-  margin-right: 15px;
+  margin-right: 10px;
 }
 .icon img {
-  width: 30px;
-  opacity: .80;
+  width: 48px;
 }
 .clearfix {
   clear: both;
